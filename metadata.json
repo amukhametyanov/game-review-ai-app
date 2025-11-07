@@ -1,0 +1,5 @@
+{
+  "name": "Game Review Scriptwriter AI",
+  "description": "An AI-powered application that researches games and writes critical, fair review scripts in multiple languages, complete with source links.",
+  "requestFramePermissions": []
+}
